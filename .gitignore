@@ -1,0 +1,35 @@
+# Dependency directories
+/node_modules
+/npm-debug.log
+
+# Expo build directory
+/.expo
+
+# Expo cache directory
+/.expo-shared
+
+# iOS build directory
+/ios/build
+
+# Android build directory
+/android/build
+
+# .env file (containing sensitive information)
+.env
+
+# IDE or editor files
+.vscode
+.idea
+
+# Mac OS specific files
+.DS_Store
+
+# Android specific files
+*.apk
+*.aab
+*.keystore
+
+# iOS specific files
+*.ipa
+*.xcworkspace
+*.pbxproj
